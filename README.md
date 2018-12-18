@@ -8,4 +8,12 @@
 * jwt权限验证
 * 集成七牛 qiniu
 
+## 用法
+```
+cd web
+php -S localhost:3000
+
+访问
+localhost:3000/v1/starks
+```
 ## 有问题：issue
